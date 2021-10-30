@@ -1,4 +1,4 @@
 # CovidCasesBE
 
 
-The Backend part for covid case API's will be done here.
+The Backend API's for covid case webpage will be done here.
